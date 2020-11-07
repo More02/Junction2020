@@ -9,9 +9,12 @@ EditorBuildSettings:
     path: Assets/Scenes/SampleScene.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   - enabled: 0
-    path: Assets/NatureStarterKit2/Scene/Demo.unity
-    guid: 2b02c29601fc84e49a18fde7fed33f95
-  - enabled: 1
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
     path: Assets/RPGPP_LT/Scene/rpgpp_lt_scene_1.0.unity
     guid: d2809ab9b90eea7419d8d90d4c505d35
+  - enabled: 1
+    path: Assets/Scenes/PlaneScene.unity
+    guid: fb77fc1c9dac1b14b936d956c0b59ec2
   m_configObjects: {}
