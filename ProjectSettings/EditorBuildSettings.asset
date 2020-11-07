@@ -5,16 +5,19 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
-    path: Assets/Scenes/SampleScene.unity
-    guid: 9fc0d4010bbf28b4594072e72b8655ab
-  - enabled: 0
+  - enabled: 1
     path: Assets/RPGPP_LT/Scene/rpgpp_lt_scene_1.0.unity
     guid: d2809ab9b90eea7419d8d90d4c505d35
-  - enabled: 0
+  - enabled: 1
     path: Assets/FreeVegetation-LowPolyNature/Demo/TerrainScene.unity
     guid: a1682599096835f43aeaba8eb03cf65f
   - enabled: 1
     path: Assets/Scenes/Beach.unity
     guid: c32d2cd400b6bbb45942a3bcb180df79
+  - enabled: 1
+    path: Assets/Scenes/SceneForPlaneLast.unity
+    guid: 975c674940a67024e8383c5deebeecc0
+  - enabled: 1
+    path: Assets/LowPolyLandscape/Maps/Example_Night.unity
+    guid: 42c14d38b9d4dce468c99ed85d071129
   m_configObjects: {}
