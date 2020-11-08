@@ -52,7 +52,7 @@ public class movement : MonoBehaviour
     public void OnTriggerEnter(Collider col)
     {
         Debug.Log("Keeeeeeek " + col.gameObject.name);
-        if (col.gameObject.name.Equals("Sphere"))
+        if (col.gameObject.name.Contains("Sphere"))
         {
             Destroy(col.gameObject);
         }

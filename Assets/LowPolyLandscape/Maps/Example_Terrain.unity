@@ -666,10 +666,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1290560108}
     m_Modifications:
-    - target: {fileID: 172796, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
-      propertyPath: m_Name
-      value: RockCliff-02 (18)
-      objectReference: {fileID: 0}
     - target: {fileID: 480536, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
       propertyPath: m_LocalPosition.x
       value: 56.99
@@ -709,6 +705,10 @@ PrefabInstance:
     - target: {fileID: 480536, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
       propertyPath: m_LocalScale.z
       value: 0.6154835
+      objectReference: {fileID: 0}
+    - target: {fileID: 172796, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
+      propertyPath: m_Name
+      value: RockCliff-02 (18)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
@@ -804,14 +804,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1290560108}
     m_Modifications:
-    - target: {fileID: 172796, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
-      propertyPath: m_Name
-      value: RockCliff-02 (4)
-      objectReference: {fileID: 0}
-    - target: {fileID: 172796, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 480536, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
       propertyPath: m_LocalPosition.x
       value: 94.06
@@ -859,6 +851,14 @@ PrefabInstance:
     - target: {fileID: 480536, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
       propertyPath: m_LocalScale.z
       value: 0.8449166
+      objectReference: {fileID: 0}
+    - target: {fileID: 172796, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
+      propertyPath: m_Name
+      value: RockCliff-02 (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 172796, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
@@ -2084,14 +2084,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1290560108}
     m_Modifications:
-    - target: {fileID: 172796, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
-      propertyPath: m_Name
-      value: RockCliff-02 (9)
-      objectReference: {fileID: 0}
-    - target: {fileID: 172796, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 480536, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
       propertyPath: m_LocalPosition.x
       value: 53.84
@@ -2140,6 +2132,14 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 0.84491724
       objectReference: {fileID: 0}
+    - target: {fileID: 172796, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
+      propertyPath: m_Name
+      value: RockCliff-02 (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 172796, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
 --- !u!1001 &261697175
@@ -2149,10 +2149,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1290560108}
     m_Modifications:
-    - target: {fileID: 172796, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
-      propertyPath: m_Name
-      value: RockCliff-02 (7)
-      objectReference: {fileID: 0}
     - target: {fileID: 480536, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
       propertyPath: m_LocalPosition.x
       value: 61.22
@@ -2196,6 +2192,10 @@ PrefabInstance:
     - target: {fileID: 480536, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
       propertyPath: m_LocalScale.z
       value: 0.6154838
+      objectReference: {fileID: 0}
+    - target: {fileID: 172796, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
+      propertyPath: m_Name
+      value: RockCliff-02 (7)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
@@ -4150,14 +4150,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1290560108}
     m_Modifications:
-    - target: {fileID: 172796, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
-      propertyPath: m_Name
-      value: RockCliff-02 (10)
-      objectReference: {fileID: 0}
-    - target: {fileID: 172796, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 480536, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
       propertyPath: m_LocalPosition.x
       value: 58.66
@@ -4206,6 +4198,14 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 0.74352694
       objectReference: {fileID: 0}
+    - target: {fileID: 172796, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
+      propertyPath: m_Name
+      value: RockCliff-02 (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 172796, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
 --- !u!4 &460513593 stripped
@@ -4221,14 +4221,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1290560108}
     m_Modifications:
-    - target: {fileID: 172796, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
-      propertyPath: m_Name
-      value: RockCliff-02 (6)
-      objectReference: {fileID: 0}
-    - target: {fileID: 172796, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 480536, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
       propertyPath: m_LocalPosition.x
       value: 112.8
@@ -4276,6 +4268,14 @@ PrefabInstance:
     - target: {fileID: 480536, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
       propertyPath: m_LocalScale.z
       value: 0.74352705
+      objectReference: {fileID: 0}
+    - target: {fileID: 172796, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
+      propertyPath: m_Name
+      value: RockCliff-02 (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 172796, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
@@ -4861,6 +4861,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1871434651}
     m_Modifications:
+    - target: {fileID: 1855485806057040, guid: eedc741cd3656f043aa773bf8563c32f, type: 3}
+      propertyPath: m_Name
+      value: ProgressBar
+      objectReference: {fileID: 0}
     - target: {fileID: 224729406379468822, guid: eedc741cd3656f043aa773bf8563c32f,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -4965,10 +4969,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Pivot.y
       value: 0.5
-      objectReference: {fileID: 0}
-    - target: {fileID: 1855485806057040, guid: eedc741cd3656f043aa773bf8563c32f, type: 3}
-      propertyPath: m_Name
-      value: ProgressBar
       objectReference: {fileID: 0}
     - target: {fileID: 114390099274620952, guid: eedc741cd3656f043aa773bf8563c32f,
         type: 3}
@@ -5137,10 +5137,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1069755111}
     m_Modifications:
-    - target: {fileID: 136084, guid: ddc2e525bdbd2a8499022689ec18abc1, type: 3}
-      propertyPath: m_Name
-      value: TreeStump_A-03 (1)
-      objectReference: {fileID: 0}
     - target: {fileID: 494566, guid: ddc2e525bdbd2a8499022689ec18abc1, type: 3}
       propertyPath: m_LocalPosition.x
       value: 81.882
@@ -5188,6 +5184,10 @@ PrefabInstance:
     - target: {fileID: 494566, guid: ddc2e525bdbd2a8499022689ec18abc1, type: 3}
       propertyPath: m_LocalScale.z
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 136084, guid: ddc2e525bdbd2a8499022689ec18abc1, type: 3}
+      propertyPath: m_Name
+      value: TreeStump_A-03 (1)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ddc2e525bdbd2a8499022689ec18abc1, type: 3}
@@ -5278,7 +5278,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 88bac3b70affec342bfff102a32938d0, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 1
+  m_Volume: 0.2
   m_Pitch: 1
   Loop: 1
   Mute: 0
@@ -6920,8 +6920,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 658843536}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 96.39, y: 2.1, z: 75.3}
-  m_LocalScale: {x: 2.89576, y: 2.89576, z: 2.89576}
+  m_LocalPosition: {x: 102.95, y: 9.25, z: 45.2}
+  m_LocalScale: {x: 1.6284596, y: 1.6284596, z: 1.6284596}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 12
@@ -8116,14 +8116,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1290560108}
     m_Modifications:
-    - target: {fileID: 172796, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
-      propertyPath: m_Name
-      value: RockCliff-02 (5)
-      objectReference: {fileID: 0}
-    - target: {fileID: 172796, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 480536, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
       propertyPath: m_LocalPosition.x
       value: 93.03
@@ -8172,6 +8164,14 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 0.84491724
       objectReference: {fileID: 0}
+    - target: {fileID: 172796, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
+      propertyPath: m_Name
+      value: RockCliff-02 (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 172796, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
 --- !u!1001 &802498352
@@ -8181,10 +8181,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1290560108}
     m_Modifications:
-    - target: {fileID: 172796, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 480536, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
       propertyPath: m_LocalPosition.x
       value: 78.96
@@ -8233,6 +8229,10 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 0.7791957
       objectReference: {fileID: 0}
+    - target: {fileID: 172796, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
 --- !u!1001 &805202879
@@ -8242,14 +8242,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1290560108}
     m_Modifications:
-    - target: {fileID: 172796, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
-      propertyPath: m_Name
-      value: RockCliff-02 (8)
-      objectReference: {fileID: 0}
-    - target: {fileID: 172796, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 480536, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
       propertyPath: m_LocalPosition.x
       value: 63.89
@@ -8297,6 +8289,14 @@ PrefabInstance:
     - target: {fileID: 480536, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
       propertyPath: m_LocalScale.z
       value: 0.8449166
+      objectReference: {fileID: 0}
+    - target: {fileID: 172796, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
+      propertyPath: m_Name
+      value: RockCliff-02 (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 172796, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
@@ -8671,10 +8671,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1069755111}
     m_Modifications:
-    - target: {fileID: 192262, guid: e84057e0c65fc424f98e3d569af2bf13, type: 3}
-      propertyPath: m_Name
-      value: Bush-03 (1)
-      objectReference: {fileID: 0}
     - target: {fileID: 435198, guid: e84057e0c65fc424f98e3d569af2bf13, type: 3}
       propertyPath: m_LocalPosition.x
       value: 50.53
@@ -8706,6 +8702,10 @@ PrefabInstance:
     - target: {fileID: 435198, guid: e84057e0c65fc424f98e3d569af2bf13, type: 3}
       propertyPath: m_RootOrder
       value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 192262, guid: e84057e0c65fc424f98e3d569af2bf13, type: 3}
+      propertyPath: m_Name
+      value: Bush-03 (1)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e84057e0c65fc424f98e3d569af2bf13, type: 3}
@@ -9206,14 +9206,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1290560108}
     m_Modifications:
-    - target: {fileID: 172796, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
-      propertyPath: m_Name
-      value: RockCliff-02 (2)
-      objectReference: {fileID: 0}
-    - target: {fileID: 172796, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 480536, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
       propertyPath: m_LocalPosition.x
       value: 79.41
@@ -9261,6 +9253,14 @@ PrefabInstance:
     - target: {fileID: 480536, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
       propertyPath: m_LocalScale.z
       value: 0.5674962
+      objectReference: {fileID: 0}
+    - target: {fileID: 172796, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
+      propertyPath: m_Name
+      value: RockCliff-02 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 172796, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
@@ -9976,14 +9976,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1290560108}
     m_Modifications:
-    - target: {fileID: 172796, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
-      propertyPath: m_Name
-      value: RockCliff-02 (3)
-      objectReference: {fileID: 0}
-    - target: {fileID: 172796, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 480536, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
       propertyPath: m_LocalPosition.x
       value: 85.97
@@ -10031,6 +10023,14 @@ PrefabInstance:
     - target: {fileID: 480536, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
       propertyPath: m_LocalScale.z
       value: 0.7163322
+      objectReference: {fileID: 0}
+    - target: {fileID: 172796, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
+      propertyPath: m_Name
+      value: RockCliff-02 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 172796, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
@@ -10703,14 +10703,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1290560108}
     m_Modifications:
-    - target: {fileID: 172796, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
-      propertyPath: m_Name
-      value: RockCliff-02 (14)
-      objectReference: {fileID: 0}
-    - target: {fileID: 172796, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 480536, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
       propertyPath: m_LocalPosition.x
       value: 92.8
@@ -10758,6 +10750,14 @@ PrefabInstance:
     - target: {fileID: 480536, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
       propertyPath: m_LocalScale.z
       value: 0.84491724
+      objectReference: {fileID: 0}
+    - target: {fileID: 172796, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
+      propertyPath: m_Name
+      value: RockCliff-02 (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 172796, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
@@ -12177,14 +12177,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1290560108}
     m_Modifications:
-    - target: {fileID: 172796, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
-      propertyPath: m_Name
-      value: RockCliff-02 (1)
-      objectReference: {fileID: 0}
-    - target: {fileID: 172796, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 480536, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
       propertyPath: m_LocalPosition.x
       value: 77.66
@@ -12232,6 +12224,14 @@ PrefabInstance:
     - target: {fileID: 480536, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
       propertyPath: m_LocalScale.z
       value: 0.56749594
+      objectReference: {fileID: 0}
+    - target: {fileID: 172796, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
+      propertyPath: m_Name
+      value: RockCliff-02 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 172796, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
@@ -13275,8 +13275,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1312062858}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 55.6, y: 2.1, z: 62.12}
-  m_LocalScale: {x: 2.89576, y: 2.89576, z: 2.89576}
+  m_LocalPosition: {x: 57.02, y: 14.39, z: 41.53}
+  m_LocalScale: {x: 1.5057951, y: 1.5057951, z: 1.5057951}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 10
@@ -17632,14 +17632,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1290560108}
     m_Modifications:
-    - target: {fileID: 172796, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
-      propertyPath: m_Name
-      value: RockCliff-02 (11)
-      objectReference: {fileID: 0}
-    - target: {fileID: 172796, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 480536, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
       propertyPath: m_LocalPosition.x
       value: 53.54
@@ -17687,6 +17679,14 @@ PrefabInstance:
     - target: {fileID: 480536, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
       propertyPath: m_LocalScale.z
       value: 0.74352694
+      objectReference: {fileID: 0}
+    - target: {fileID: 172796, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
+      propertyPath: m_Name
+      value: RockCliff-02 (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 172796, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
@@ -17788,8 +17788,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1714694674}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 96.85, y: 5.24, z: 145.44}
-  m_LocalScale: {x: 2.89576, y: 2.89576, z: 2.89576}
+  m_LocalPosition: {x: 64.08, y: 11.32, z: 122.53}
+  m_LocalScale: {x: 1.4499071, y: 1.4499071, z: 1.4499071}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 13
@@ -17813,14 +17813,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1290560108}
     m_Modifications:
-    - target: {fileID: 172796, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
-      propertyPath: m_Name
-      value: RockCliff-02 (19)
-      objectReference: {fileID: 0}
-    - target: {fileID: 172796, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 480536, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
       propertyPath: m_LocalPosition.x
       value: 103.85
@@ -17868,6 +17860,14 @@ PrefabInstance:
     - target: {fileID: 480536, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
       propertyPath: m_LocalScale.z
       value: 0.74352705
+      objectReference: {fileID: 0}
+    - target: {fileID: 172796, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
+      propertyPath: m_Name
+      value: RockCliff-02 (19)
+      objectReference: {fileID: 0}
+    - target: {fileID: 172796, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
@@ -19281,14 +19281,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1290560108}
     m_Modifications:
-    - target: {fileID: 172796, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
-      propertyPath: m_Name
-      value: RockCliff-02 (13)
-      objectReference: {fileID: 0}
-    - target: {fileID: 172796, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 480536, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
       propertyPath: m_LocalPosition.x
       value: 48.45
@@ -19336,6 +19328,14 @@ PrefabInstance:
     - target: {fileID: 480536, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
       propertyPath: m_LocalScale.z
       value: 0.7791957
+      objectReference: {fileID: 0}
+    - target: {fileID: 172796, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
+      propertyPath: m_Name
+      value: RockCliff-02 (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 172796, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
@@ -19901,10 +19901,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1290560108}
     m_Modifications:
-    - target: {fileID: 172796, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
-      propertyPath: m_Name
-      value: RockCliff-02 (17)
-      objectReference: {fileID: 0}
     - target: {fileID: 480536, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
       propertyPath: m_LocalPosition.x
       value: 65.21
@@ -19944,6 +19940,10 @@ PrefabInstance:
     - target: {fileID: 480536, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
       propertyPath: m_LocalScale.z
       value: 0.6154835
+      objectReference: {fileID: 0}
+    - target: {fileID: 172796, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
+      propertyPath: m_Name
+      value: RockCliff-02 (17)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
@@ -20609,14 +20609,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1290560108}
     m_Modifications:
-    - target: {fileID: 172796, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
-      propertyPath: m_Name
-      value: RockCliff-02 (16)
-      objectReference: {fileID: 0}
-    - target: {fileID: 172796, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 480536, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
       propertyPath: m_LocalPosition.x
       value: 132.93
@@ -20664,6 +20656,14 @@ PrefabInstance:
     - target: {fileID: 480536, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
       propertyPath: m_LocalScale.z
       value: 0.6154836
+      objectReference: {fileID: 0}
+    - target: {fileID: 172796, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
+      propertyPath: m_Name
+      value: RockCliff-02 (16)
+      objectReference: {fileID: 0}
+    - target: {fileID: 172796, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
@@ -20842,14 +20842,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1290560108}
     m_Modifications:
-    - target: {fileID: 172796, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
-      propertyPath: m_Name
-      value: RockCliff-02 (12)
-      objectReference: {fileID: 0}
-    - target: {fileID: 172796, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 480536, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
       propertyPath: m_LocalPosition.x
       value: 51.12
@@ -20897,6 +20889,14 @@ PrefabInstance:
     - target: {fileID: 480536, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
       propertyPath: m_LocalScale.z
       value: 0.7435267
+      objectReference: {fileID: 0}
+    - target: {fileID: 172796, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
+      propertyPath: m_Name
+      value: RockCliff-02 (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 172796, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
@@ -21689,14 +21689,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1290560108}
     m_Modifications:
-    - target: {fileID: 172796, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
-      propertyPath: m_Name
-      value: RockCliff-02 (15)
-      objectReference: {fileID: 0}
-    - target: {fileID: 172796, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 480536, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
       propertyPath: m_LocalPosition.x
       value: 59.14
@@ -21744,6 +21736,14 @@ PrefabInstance:
     - target: {fileID: 480536, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
       propertyPath: m_LocalScale.z
       value: 0.62121785
+      objectReference: {fileID: 0}
+    - target: {fileID: 172796, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
+      propertyPath: m_Name
+      value: RockCliff-02 (15)
+      objectReference: {fileID: 0}
+    - target: {fileID: 172796, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 720b1057872090a45bf3bfee7ee139b2, type: 3}
