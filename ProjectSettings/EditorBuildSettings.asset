@@ -20,4 +20,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/LowPolyLandscape/Maps/Example_Night.unity
     guid: 42c14d38b9d4dce468c99ed85d071129
+  - enabled: 1
+    path: Assets/LowPolyLandscape/Maps/Example_Terrain.unity
+    guid: e0bb5a0731274b74a9f180a82013919f
   m_configObjects: {}
